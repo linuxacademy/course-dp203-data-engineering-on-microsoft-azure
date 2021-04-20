@@ -3,7 +3,7 @@
 # Author: Landon Fowler
 # Purpose: Script to simulate streaming data into an Azure Data Lake.
 #   It will continuously create JSON files in two different containers.
-# Date Updated: 10/05/2020
+# Date Updated: 04/20/2021
 ##########################################################################
 
 #Parameters
